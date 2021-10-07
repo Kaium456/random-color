@@ -1,0 +1,21 @@
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  height: 300px;
+  width: 300px;
+}
+h1,
+span {
+  font-family: monospace;
+  font-size: 2em;
+}
+
+#slected-color {
+  background-color: aquamarine;
+  color: #ffff;
+  padding: 5px;
+}
